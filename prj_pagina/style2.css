@@ -1,0 +1,9 @@
+.caixinha {
+    box-sizing: border-box;
+    width: 300px;
+    height: 200px;
+    border: 10px solid green;
+    padding: 200px;
+    margin: 100px;
+    
+}
